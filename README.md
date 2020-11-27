@@ -1,4 +1,4 @@
-# Cluster-Master-Slave-Switching
+# Cluster：Master_Slave_Switching
 zookeeper实现主从切换，xmlrpc实现时间同步。
 
 目标：从四台主机选出一台当做Master，其他的为Slave。要求：
